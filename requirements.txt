@@ -1,0 +1,6 @@
+streamlit
+moviepy
+google-cloud-storage
+google-generativeai
+Pillow
+requests
