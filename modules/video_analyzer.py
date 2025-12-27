@@ -1,6 +1,5 @@
 import streamlit as st
 import google.generativeai as genai
-from google.generativeai.client import get_default_retrying_client
 import os
 
 # Google Gemini APIキーの設定
