@@ -1,7 +1,7 @@
 streamlit==1.52.2
 moviepy==2.2.1
-google-cloud-storage==3.7.0
-google-generativeai==0.6.0
+google-cloud-storage
+google-generativeai
 Pillow==11.3.0
 requests==2.32.5
 protobuf==4.25.8
